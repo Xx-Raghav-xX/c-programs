@@ -1,3 +1,5 @@
+//Take a input from user with a positive integer. Write a function to compute the sum of series where n is input
+//by the user in the main function. Find sum of series where i-th term is sum of first i natural numbers.
 #include <iostream>
 
 using namespace std;
