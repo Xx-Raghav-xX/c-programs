@@ -1,3 +1,6 @@
+//declaration. Explain how
+//you would use the scope resolution operator to define the functions outside the class and ensure proper
+//linkage with the help of c++ programming example.
 #include <iostream>
 using namespace std;
 
