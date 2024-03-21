@@ -1,3 +1,5 @@
+//Develop a logic that allows the user to keep entering
+//numbers as long as the input is valid and also displays a count of the valid numbers.
 #include<iostream>
 using namespace std;
 int main()
